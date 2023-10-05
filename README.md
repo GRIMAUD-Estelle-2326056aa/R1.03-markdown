@@ -1,3 +1,2 @@
 # R1.03-markdown
-
-[ ] test
+- [x] test
