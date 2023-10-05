@@ -4,6 +4,8 @@
 
 ## Histoire
 
+- [X] Années 1970
+- [X] Années 1980
 
 ## Types de clavier
 
@@ -15,3 +17,4 @@
 ## Principes de fonctionnement
 
 ## Sources
+[link]([https://www.example.com/my%20great%20page](https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)
