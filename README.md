@@ -17,4 +17,4 @@
 ## Principes de fonctionnement
 
 ## Sources
-[link]([https://www.example.com/my%20great%20page](https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)
+<https://www.example.com/my%20great%20page](https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur>
