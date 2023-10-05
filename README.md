@@ -2,7 +2,7 @@
 
 > Un clavier d’ordinateur est une interface homme-machine munie de touches permettant à l'utilisateur d'entrer dans l'ordinateur une séquence de données, notamment textuelle.
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2c%2FClavier.jpeg%2F1200px-Clavier.jpeg&tbnid=F9rIhURYiogQjM&vet=12ahUKEwiuwM6xlN-BAxVgvicCHfxhDl8QMygAegQIARAw..i&imgrefurl=https%3A%2F%2Ffr.wikiversity.org%2Fwiki%2FFichier%3AClavier.jpeg&docid=2Cu8gzckwg-QgM&w=1200&h=449&q=clavier%20.jpeg&client=firefox-b-d&ved=2ahUKEwiuwM6xlN-BAxVgvicCHfxhDl8QMygAegQIARAw "icon")
+[Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2c%2FClavier.jpeg%2F1200px-Clavier.jpeg&tbnid=F9rIhURYiogQjM&vet=12ahUKEwiuwM6xlN-BAxVgvicCHfxhDl8QMygAegQIARAw..i&imgrefurl=https%3A%2F%2Ffr.wikiversity.org%2Fwiki%2FFichier%3AClavier.jpeg&docid=2Cu8gzckwg-QgM&w=1200&h=449&q=clavier%20.jpeg&client=firefox-b-d&ved=2ahUKEwiuwM6xlN-BAxVgvicCHfxhDl8QMygAegQIARAw)
 
 ## Histoire
 
