@@ -16,13 +16,15 @@
 
 ## Types de clavier
 
+Types|Modèle M avant 1995|Modèles pour Windows 95 (+ 3 touches)|Modèles pour Windows 95 sans pavé numérique (− 17 touches)
+|---|---|---|---|
+| Clavier américain |101|104|87
+| Claviers européens |j|j|88
+| Clavier coréen    |j|jj|89
+| Clavier brésilien |j|j|89 (le pavé numérique brésilien comptant 18 touches)
+| Clavier japonais  |j|j|92
 
-|   |Modèle M avant 1995 | Modèles pour Windows 95 (+ 3 touches) | Modèles pour Windows 95 sans pavé numérique (− 17 touches) |
-| Clavier américain | 101 | 104 | 87 |
-| Claviers européens | 102 | 105 | 88 |
-| Clavier coréen | 103 | 106 | 89 |
-| Clavier brésilien | 104 | 107 | 89 (le pavé numérique brésilien comptant 18 touches) |
-| Clavier japonais | 106 | 109 | 92 |
+
 
 
 ## Disposition des touches
