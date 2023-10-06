@@ -14,6 +14,8 @@
 
 > Le clavier est intégré au boîtier de l'ordinateur personnel qui contient l'unité centrale, chaque fabricant élaborant sa propre disposition des touches. 
 
+- [ ] Années **202?**
+
 ## Types de clavier
 
 Types|Modèle M avant 1995|Modèles pour Windows 95 (+ 3 touches)|Modèles pour Windows 95 sans pavé numérique (− 17 touches)
@@ -30,12 +32,14 @@ Types|Modèle M avant 1995|Modèles pour Windows 95 (+ 3 touches)|Modèles pour 
 ## Disposition des touches
 
 ### Azerty
-### ~~Qwerty~~
+### ~~Qwerty~~~
 
 ## Principes de fonctionnement
 
 ## Sources
 
-``` https://clavierordinateur.miraheze.org/wiki/Accueil ```
+``` 
+https://clavierordinateur.miraheze.org/wiki/Accueil
+```
 
 [Wikipédia](https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)
