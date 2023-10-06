@@ -32,7 +32,7 @@ Types|Modèle M avant 1995|Modèles pour Windows 95 (+ 3 touches)|Modèles pour 
 ## Disposition des touches
 
 ### Azerty
-### ~~Qwerty~~~
+### ~~Qwerty~~
 
 ## Principes de fonctionnement
 
