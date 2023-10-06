@@ -43,10 +43,12 @@ Les claviers se caractérisent par leurs particularités techniques (touches mue
 D'une façon simplifiée, l'appui sur une touche émet un code (appelé scan code) qui est récupéré par l'ordinateur ; le système d'exploitation associe ce code à un caractère, qui est par exemple affiché à l'écran si l'utilisateur utilise un traitement de texte. Un code peut aussi être associé à une action, par exemple l’augmentation ou la diminution du volume sonore. La gestion logicielle du clavier et de ses touches est spécifique à chaque système d’exploitation.
 
 La partie électronique des claviers comprend en général un microcontrôleur, qui envoie les scan codes, qui filtre les éventuels rebonds (en), et qui contrôle l'allumage ou l'extinction des voyants du clavier.
+
 ## Sources
 
+[Wikipédia](https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)
+
+## Lien wiki
 ``` 
 https://clavierordinateur.miraheze.org/wiki/Accueil
 ```
-
-[Wikipédia](https://fr.wikipedia.org/wiki/Clavier_d%27ordinateur)
