@@ -2,7 +2,7 @@
 
 > Un clavier d’ordinateur est une **_interface homme-machine_** munie de touches permettant à l'utilisateur d'entrer dans l'ordinateur une séquence de données, notamment textuelle.
 
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2c%2FClavier.jpeg%2F1200px-Clavier.jpeg&tbnid=F9rIhURYiogQjM&vet=12ahUKEwiuwM6xlN-BAxVgvicCHfxhDl8QMygAegQIARAw..i&imgrefurl=https%3A%2F%2Ffr.wikiversity.org%2Fwiki%2FFichier%3AClavier.jpeg&docid=2Cu8gzckwg-QgM&w=1200&h=449&q=clavier%20.jpeg&client=firefox-b-d&ved=2ahUKEwiuwM6xlN-BAxVgvicCHfxhDl8QMygAegQIARAw.jpg)
+
 
 ## Histoire
 
@@ -19,10 +19,10 @@
 Types|Modèle M avant 1995|Modèles pour Windows 95 (+ 3 touches)|Modèles pour Windows 95 sans pavé numérique (− 17 touches)
 |---|---|---|---|
 | Clavier américain |101|104|87
-| Claviers européens |j|j|88
-| Clavier coréen    |j|jj|89
-| Clavier brésilien |j|j|89 (le pavé numérique brésilien comptant 18 touches)
-| Clavier japonais  |j|j|92
+| Claviers européens |102|105|88
+| Clavier coréen    |103|106|89
+| Clavier brésilien |104|107|89 (le pavé numérique brésilien comptant 18 touches)
+| Clavier japonais  |106|109|92
 
 
 
@@ -30,10 +30,17 @@ Types|Modèle M avant 1995|Modèles pour Windows 95 (+ 3 touches)|Modèles pour 
 ## Disposition des touches
 
 ### Azerty
+
 ### ~~Qwerty~~
 
-## Principes de fonctionnement
+  
+  
+Les claviers se caractérisent par leurs particularités techniques (touches muettes) et surtout nationales (caractères spécifiques, disposition…). Il existe de nombreuses dispositions des touches (AZERTY, QWERTY, QWERTZ, Dvorak, BÉPO, etc.), chacune pouvant avoir des variantes. Ainsi, l’AZERTY français n’est pas le même que l’AZERTY belge, et le QWERTZ allemand n’est pas le même que le QWERTZ suisse.
 
+## Principes de fonctionnement
+D'une façon simplifiée, l'appui sur une touche émet un code (appelé scan code) qui est récupéré par l'ordinateur ; le système d'exploitation associe ce code à un caractère, qui est par exemple affiché à l'écran si l'utilisateur utilise un traitement de texte. Un code peut aussi être associé à une action, par exemple l’augmentation ou la diminution du volume sonore. La gestion logicielle du clavier et de ses touches est spécifique à chaque système d’exploitation.
+
+La partie électronique des claviers comprend en général un microcontrôleur, qui envoie les scan codes, qui filtre les éventuels rebonds (en), et qui contrôle l'allumage ou l'extinction des voyants du clavier.
 ## Sources
 
 ``` https://clavierordinateur.miraheze.org/wiki/Accueil ```
